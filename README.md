@@ -1,9 +1,1 @@
-### Hi there 👋
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently expanding my knowledge in 
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
